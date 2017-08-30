@@ -1,1 +1,1 @@
-This is Angela's first gift project!
+This is Angela's first git project!
